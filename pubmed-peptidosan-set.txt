@@ -1,0 +1,647 @@
+PMID- 30532100
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190911
+LR  - 20190911
+IS  - 0016-3813 (Print)
+IS  - 0016-3813 (Linking)
+VI  - 154
+IP  - 6
+DP  - 2018
+TI  - [Péptidos antimicrobianos, una alternativa prometedora para el tratamiento de 
+      enfermedades infecciosas].
+PG  - 681-688
+LID - 10.24875/GMM.18003445 [doi]
+AB  - Microorganisms that cause diseases in humans are constantly evolving, which 
+      represents a challenge in the search for effective treatments against them. Even 
+      when currently there are several pharmacological alternatives available, sometimes 
+      they are inefficient for the control of infectious diseases, especially because 
+      pathogens have generated multiple resistance mechanisms against them. Antimicrobial 
+      peptides have been described in many species of organisms, from fungi, plants and 
+      insects to humans; currently, there are molecules that appear as a solution that can 
+      be effective in modern therapeutics. The advantage of these natural peptides lies in 
+      that they have been evolving almost the same amount of time than the species that 
+      produce them and their effect on the control of microorganisms is highly 
+      significant; some of these molecules are isolated from living organisms, others are 
+      starting to be produced by synthetic methods, which allows having access to an 
+      endless number of peptides with diverse therapeutic activities.
+CI  - Copyright: © 2018 SecretarÍa de Salud.
+FAU - Samael Olascoaga-Del, Angel Kevin
+AU  - Samael Olascoaga-Del AK
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+FAU - Sánchez-Evangelista, Grecia
+AU  - Sánchez-Evangelista G
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+FAU - Carmona-Navarrete, Israel
+AU  - Carmona-Navarrete I
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+FAU - Galicia-Sánchez, María Del Carmen
+AU  - Galicia-Sánchez MDC
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+FAU - Gómez-Luna, Angélica
+AU  - Gómez-Luna A
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+FAU - Islas-Arrollo, Susan Janneth
+AU  - Islas-Arrollo SJ
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+FAU - Castañeda-Sánchez, Jorge Ismael
+AU  - Castañeda-Sánchez JI
+AD  - Universidad Autónoma Metropolitana Unidad Xochimilco, Ciudad de México, México.
+LA  - spa
+PT  - Journal Article
+PT  - Review
+PL  - Mexico
+TA  - Gac Med Mex
+JT  - Gaceta medica de Mexico
+JID - 0010333
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Peptides)
+SB  - IM
+MH  - Anti-Infective Agents/*administration & dosage/chemical synthesis/isolation & 
+      purification
+MH  - Communicable Diseases/*drug therapy/microbiology
+MH  - Drug Resistance, Microbial
+MH  - Drug Resistance, Multiple
+MH  - Humans
+MH  - Peptides/*administration & dosage/chemical synthesis/isolation & purification
+OTO - NOTNLM
+OT  - *Antimicrobial peptides
+OT  - *Drug resistance
+OT  - *Enfermedades infecciosas
+OT  - *Infectious diseases
+OT  - *Péptidos antimicrobianos
+OT  - *Resistencia a fármacos
+EDAT- 2018/12/12 06:00
+MHDA- 2019/09/12 06:00
+CRDT- 2018/12/12 06:00
+PHST- 2018/12/12 06:00 [entrez]
+PHST- 2018/12/12 06:00 [pubmed]
+PHST- 2019/09/12 06:00 [medline]
+AID - j154/6/681 [pii]
+AID - 10.24875/GMM.18003445 [doi]
+PST - ppublish
+SO  - Gac Med Mex. 2018;154(6):681-688. doi: 10.24875/GMM.18003445.
+
+PMID- 22524110
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130516
+LR  - 20120424
+IS  - 0535-5133 (Print)
+IS  - 0535-5133 (Linking)
+VI  - 53
+IP  - 1
+DP  - 2012 Mar
+TI  - [Antimicrobial peptides: a potential arsenal against HIV infection].
+PG  - 71-83
+AB  - HIV (human immunodeficiency virus) infection is today a very important health issue 
+      worldwide, which demands new ways and strategies for its prevention and treatment. 
+      Several studies on the innate immunity against HIV infection have shown that 
+      antimicrobial peptides are associated with increased resistance to infection. In the 
+      present review, we briefly summarize the major characteristics of antimicrobial 
+      peptides from human and several species of plants, amphibians, insects and other 
+      animal species that have significant potential to be used as therapeutic or 
+      prophylactic agents. The mechanisms of infection inhibition and viral replication 
+      blockade are also described in the context of the biology of infection.
+FAU - Castañeda-Delgado, Julio Enrique
+AU  - Castañeda-Delgado JE
+AD  - Unidad de Investigación Médica-Zacatecas, IMSS, Zacatecas, México.
+FAU - Cervantes-Villagrana, Alberto Rafael
+AU  - Cervantes-Villagrana AR
+FAU - Rivas-Santiago, Bruno
+AU  - Rivas-Santiago B
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Péptidos antimicrobianos: un probable arsenal contra la infección por VIH.
+PL  - Venezuela
+TA  - Invest Clin
+JT  - Investigacion clinica
+JID - 0421531
+RN  - 0 (Anti-HIV Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+SB  - IM
+MH  - Animals
+MH  - Anti-HIV Agents/isolation & purification/pharmacology/*therapeutic use
+MH  - Antimicrobial Cationic Peptides/isolation & purification/pharmacology/*therapeutic 
+      use
+MH  - Drug Discovery
+MH  - Drug Evaluation, Preclinical
+MH  - HIV/drug effects
+MH  - HIV Infections/*drug therapy
+MH  - Humans
+MH  - Invertebrates/chemistry
+MH  - Plants/chemistry
+MH  - Species Specificity
+MH  - Vertebrates/metabolism
+MH  - Virus Replication/drug effects
+EDAT- 2012/04/25 06:00
+MHDA- 2013/05/17 06:00
+CRDT- 2012/04/25 06:00
+PHST- 2012/04/25 06:00 [entrez]
+PHST- 2012/04/25 06:00 [pubmed]
+PHST- 2013/05/17 06:00 [medline]
+PST - ppublish
+SO  - Invest Clin. 2012 Mar;53(1):71-83.
+
+PMID- 23437545
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130401
+LR  - 20191210
+IS  - 0375-0760 (Print)
+IS  - 0375-0760 (Linking)
+VI  - 62
+IP  - 3
+DP  - 2010 Sep-Dec
+TI  - [Enzymatic immunoassays for the detection of infectious agents or their products: 
+      presentation of some designs and applications].
+PG  - 167-79
+AB  - This paper assessed the impact of the immunoenzymatic assays on the field of the 
+      immunochemistry-based analytics for the last 40 years, and on the detection of 
+      infectious agents or the products related to their presence and/or pathogenic 
+      activity. It also addressed some designs and formats of these immunoassays from 
+      electrochemical methods of detection, assays to determine proteolytic microbial 
+      activity and their inhibitors as possible therapeutical targets, more sensitive 
+      direct triple antibody systems, alternative enzymatic activity detectors, assays for 
+      viral serology of minimal determinations to competitive assays for evaluation of 
+      vaccinal candidate effectiveness based on selected peptide combinations. Finally, it 
+      provided a rapid overview of the near future of this type of immunoassays in the 
+      light of the emerging detection analytical technologies.
+FAU - Otero González, Anselmo J
+AU  - Otero González AJ
+AD  - Laboratorio de Immunoanalitica y péptidos antimicrobianos, Facultad De Biología, 
+      Centro De Estudios de Proteínas, Universidad de La Habana, Cuba. 
+      aoterog@infomed.sld.cu
+LA  - spa
+PT  - Journal Article
+PT  - Review
+TT  - Inmunoensayos enzimáticos para detectar agentes infecciosos o sus productos: algunos 
+      diseños y aplicaciones.
+PL  - Cuba
+TA  - Rev Cubana Med Trop
+JT  - Revista cubana de medicina tropical
+JID - 0074364
+SB  - IM
+MH  - Humans
+MH  - Immunoenzyme Techniques/*methods
+MH  - Infections/*microbiology
+EDAT- 2010/09/01 00:00
+MHDA- 2013/04/02 06:00
+CRDT- 2013/02/27 06:00
+PHST- 2013/02/27 06:00 [entrez]
+PHST- 2010/09/01 00:00 [pubmed]
+PHST- 2013/04/02 06:00 [medline]
+PST - ppublish
+SO  - Rev Cubana Med Trop. 2010 Sep-Dec;62(3):167-79.
+
+PMID- 33405536
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210114
+IS  - 2373-9878 (Electronic)
+IS  - 2373-9878 (Linking)
+VI  - 5
+IP  - 11
+DP  - 2019 Nov 11
+TI  - 3D Printing of Antimicrobial Alginate/Bacterial-Cellulose Composite Hydrogels by 
+      Incorporating Copper Nanostructures.
+PG  - 6290-6299
+LID - 10.1021/acsbiomaterials.9b01048 [doi]
+AB  - Novel antimicrobial 3D-printed alginate/bacterial-cellulose hydrogels with in 
+      situ-synthesized copper nanostructures were developed having improved printability. 
+      Prior to 3D printing, two methods were tested for the development of the alginate 
+      hydrogels: (a) ionic cross-linking with calcium ions followed by ion exchange with 
+      copper ions (method A) and (b) ionic cross-linking with copper ions (method B). A 
+      solution containing sodium borohydride, used as a reducing agent, was subsequently 
+      added to the hydrogels, producing in situ clusters of copper nanoparticles embedded 
+      in the alginate hydrogel matrix. The method used and concentrations of copper and 
+      the reducing agent were found to affect the stability of the alginate/copper 
+      hydrogels, with method A producing more stable materials. By increasing the alginate 
+      concentration from 1 to 4 wt % and by using method A, 
+      alginate/bacterial-cellulose/copper hydrogel structures were 3D-printed having 
+      excellent printability as compared with pure alginate hydrogels. It is noteworthy 
+      that after reduction with sodium borohydride, the 3D structures presented 
+      antimicrobial behavior against Escherichia coli and Staphylococcus aureus strains. 
+      Our results introduce a simple route for the production of alginate/cellulose inks 
+      with improved behavior toward antimicrobial 3D-printed materials.
+FAU - Gutierrez, Elena
+AU  - Gutierrez E
+FAU - Burdiles, Patricio A
+AU  - Burdiles PA
+FAU - Quero, Franck
+AU  - Quero F
+AUID- ORCID: 0000-0002-5535-5242
+FAU - Palma, Patricia
+AU  - Palma P
+AD  - Laboratorio de Microbiología Oral, Área Péptidos y Compuestos Antimicrobianos, 
+      Facultad de Odontología, Universidad de Chile, Olivos 943, 8380544 Independencia, 
+      Chile.
+FAU - Olate-Moya, Felipe
+AU  - Olate-Moya F
+AUID- ORCID: 0000-0002-2000-0708
+FAU - Palza, Humberto
+AU  - Palza H
+AUID- ORCID: 0000-0001-5246-6791
+LA  - eng
+PT  - Journal Article
+DEP - 20191023
+PL  - United States
+TA  - ACS Biomater Sci Eng
+JT  - ACS biomaterials science & engineering
+JID - 101654670
+SB  - IM
+OTO - NOTNLM
+OT  - 3D printing
+OT  - active hydrogels
+OT  - antimicrobial materials
+OT  - bacterial cellulose
+OT  - copper
+EDAT- 2019/11/11 00:00
+MHDA- 2019/11/11 00:01
+CRDT- 2021/01/06 17:10
+PHST- 2021/01/06 17:10 [entrez]
+PHST- 2019/11/11 00:00 [pubmed]
+PHST- 2019/11/11 00:01 [medline]
+AID - 10.1021/acsbiomaterials.9b01048 [doi]
+PST - ppublish
+SO  - ACS Biomater Sci Eng. 2019 Nov 11;5(11):6290-6299. doi: 
+      10.1021/acsbiomaterials.9b01048. Epub 2019 Oct 23.
+
+PMID- 16555536
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20060728
+LR  - 20191210
+IS  - 0036-3634 (Print)
+IS  - 0036-3634 (Linking)
+VI  - 48
+IP  - 1
+DP  - 2006 Jan-Feb
+TI  - [Antimicrobial peptides in the innate immunity of infectious diseases].
+PG  - 62-71
+AB  - Antimicrobial peptides are key effector molecules of the innate immune response. 
+      Generally, they are formed by 14-45 aminoacid residues; most of them have a positive 
+      charge and amphipathic properties. These peptides are secreted mainly by epithelial 
+      cells, neutrophils and macrophages. Based on sequence translation using computer 
+      programs, more than 800 types of antimicrobial peptides have been described in 
+      plants and animals. Antimicrobial peptides are divided according to the position of 
+      disulfide bridges and structural conformation. Defensins are the most studied 
+      antimicrobial peptides and are classified into alpha-defensins and beta-defensins. 
+      Many of these defensins can be induced by proinflammatory cytokines and pathogen 
+      associated molecules. Moreover, they have been shown to partake in the 
+      immunopathology of several diseases. The main role of antimicrobial peptides is the 
+      direct lysis of microbes. These peptides also have chemotactic properties, which may 
+      modulate the immune response, serving as a bridge between the innate and adaptive 
+      immune responses. Currently, several studies are exploring the possibility of using 
+      these antimicrobial peptides as new therapeutic agents against different infectious 
+      diseases.
+FAU - Rivas-Santiago, Bruno
+AU  - Rivas-Santiago B
+AD  - Departamento de Investigación en Microbiología, Instituto Nacional de Enfermedades 
+      Respiratorias (INER), México. btrivas@iner.gob.mx
+FAU - Sada, Eduardo
+AU  - Sada E
+FAU - Hernández-Pando, Rogelio
+AU  - Hernández-Pando R
+FAU - Tsutsumi, Víctor
+AU  - Tsutsumi V
+LA  - spa
+PT  - Journal Article
+PT  - Review
+TT  - Péptidos antimicrobianos en la inmunidad innata de enfermedades infecciosas.
+PL  - Mexico
+TA  - Salud Publica Mex
+JT  - Salud publica de Mexico
+JID - 0404371
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Defensins)
+SB  - IM
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/*immunology
+MH  - Defensins/immunology
+MH  - Humans
+MH  - *Immunity, Innate
+MH  - Infections/*immunology
+RF  - 50
+EDAT- 2006/03/25 09:00
+MHDA- 2006/07/29 09:00
+CRDT- 2006/03/25 09:00
+PHST- 2006/03/25 09:00 [pubmed]
+PHST- 2006/07/29 09:00 [medline]
+PHST- 2006/03/25 09:00 [entrez]
+AID - S0036-36342006000100010 [pii]
+AID - 10.1590/s0036-36342006000100010 [doi]
+PST - ppublish
+SO  - Salud Publica Mex. 2006 Jan-Feb;48(1):62-71. doi: 10.1590/s0036-36342006000100010.
+
+PMID- 27063608
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160818
+LR  - 20191210
+IS  - 0006-3002 (Print)
+IS  - 0006-3002 (Linking)
+VI  - 1858
+IP  - 7 Pt A
+DP  - 2016 Jul
+TI  - Structural and functional evaluation of the palindromic alanine-rich antimicrobial 
+      peptide Pa-MAP2.
+PG  - 1488-98
+LID - S0005-2736(16)30129-8 [pii]
+LID - 10.1016/j.bbamem.2016.04.003 [doi]
+AB  - Recently, several peptides have been studied regarding the defence process against 
+      pathogenic microorganisms, which are able to act against different targets, with the 
+      purpose of developing novel bioactive compounds. The present work focuses on the 
+      structural and functional evaluation of the palindromic antimicrobial peptide 
+      Pa-MAP2, designed based on the peptide Pa-MAP from Pleuronectes americanus. For a 
+      better structural understanding, molecular modelling analyses were carried out, 
+      together with molecular dynamics and circular dichroism, in different media. 
+      Antibacterial activity against Gram-negative and positive bacteria was evaluated, as 
+      well as cytotoxicity against human erythrocytes, RAW 264.7, Vero and L6 cells. In 
+      silico docking experiments, lipid vesicle studies, and atomic force microscopy (AFM) 
+      imaging were carried out to explore the activity of the peptide. In vivo studies on 
+      infected mice were also done. The palindromic primary sequence favoured an α-helix 
+      structure that was pH dependent, only present on alkaline environment, with dynamic 
+      N- and C-terminals that are stabilized in anionic media. Pa-MAP2 only showed 
+      activity against Gram-negative bacteria, with a MIC of 3.2 μM, and without any 
+      cytotoxic effect. In silico, lipid vesicles and AFM studies confirm the preference 
+      for anionic lipids (POPG, POPS, DPPE, DPPG and LPS), with the positively charged 
+      lysine residues being essential for the initial electrostatic interaction. In vivo 
+      studies showed that Pa-MAP2 increases to 100% the survival rate of mice infected 
+      with Escherichia coli. Data here reported indicated that palindromic Pa-MAP2 could 
+      be an alternative candidate for use in therapeutics against Gram-negative bacterial 
+      infections.
+CI  - Copyright © 2016. Published by Elsevier B.V.
+FAU - Migliolo, Ludovico
+AU  - Migliolo L
+AD  - Centro de Análises Proteômicas e Bioquímicas, Programa de Pós-Graduação em Ciências 
+      Genômicas e Biotecnologia, UCB, Brasília, DF, Brazil; S-inova Biotech, Programa de 
+      Pós-Graduação em Biotecnologia, Universidade Católica Dom Bosco, Campo Grande, MS, 
+      Brazil.
+FAU - Felício, Mário R
+AU  - Felício MR
+AD  - Instituto de Medicina Molecular, Faculdade de Medicina, Universidade de Lisboa, 
+      Lisbon, Portugal.
+FAU - Cardoso, Marlon H
+AU  - Cardoso MH
+AD  - Centro de Análises Proteômicas e Bioquímicas, Programa de Pós-Graduação em Ciências 
+      Genômicas e Biotecnologia, UCB, Brasília, DF, Brazil; S-inova Biotech, Programa de 
+      Pós-Graduação em Biotecnologia, Universidade Católica Dom Bosco, Campo Grande, MS, 
+      Brazil; Programa de Pós-Graduação em Patologia Molecular, Faculdade de Medicina, 
+      Universidade de Brasília, Brasília, DF, Brazil.
+FAU - Silva, Osmar N
+AU  - Silva ON
+AD  - Centro de Análises Proteômicas e Bioquímicas, Programa de Pós-Graduação em Ciências 
+      Genômicas e Biotecnologia, UCB, Brasília, DF, Brazil.
+FAU - Xavier, Mary-Ann E
+AU  - Xavier MA
+AD  - Departamento de Biologia Celular, Laboratório de Biofísica, UnB, Brasília, DF, 
+      Brazil.
+FAU - Nolasco, Diego O
+AU  - Nolasco DO
+AD  - Centro de Análises Proteômicas e Bioquímicas, Programa de Pós-Graduação em Ciências 
+      Genômicas e Biotecnologia, UCB, Brasília, DF, Brazil; Research Laboratory of 
+      Electronics, Massachusetts Institute of Technology - MIT, Cambridge, MA, United 
+      States.
+FAU - de Oliveira, Adeliana Silva
+AU  - de Oliveira AS
+AD  - Instituto de Salud Global, CRESIB - Hospital Clinic, Universitat de Barcelona, 
+      Barcelona, Spain.
+FAU - Roca-Subira, Ignasi
+AU  - Roca-Subira I
+AD  - Instituto de Salud Global, CRESIB - Hospital Clinic, Universitat de Barcelona, 
+      Barcelona, Spain.
+FAU - Vila Estape, Jordi
+AU  - Vila Estape J
+AD  - Instituto de Salud Global, CRESIB - Hospital Clinic, Universitat de Barcelona, 
+      Barcelona, Spain.
+FAU - Teixeira, Leandro D
+AU  - Teixeira LD
+AD  - Centro de Análises Proteômicas e Bioquímicas, Programa de Pós-Graduação em Ciências 
+      Genômicas e Biotecnologia, UCB, Brasília, DF, Brazil.
+FAU - Freitas, Sonia M
+AU  - Freitas SM
+AD  - Departamento de Biologia Celular, Laboratório de Biofísica, UnB, Brasília, DF, 
+      Brazil.
+FAU - Otero-Gonzalez, Anselmo J
+AU  - Otero-Gonzalez AJ
+AD  - Laboratorio de Immunoanalitica y péptidos antimicrobianos, Faculdad de Biología, 
+      Centro de estudios de Proteínas, Universidad de La Habana, Cuba.
+FAU - Gonçalves, Sónia
+AU  - Gonçalves S
+AD  - Instituto de Medicina Molecular, Faculdade de Medicina, Universidade de Lisboa, 
+      Lisbon, Portugal.
+FAU - Santos, Nuno C
+AU  - Santos NC
+AD  - Instituto de Medicina Molecular, Faculdade de Medicina, Universidade de Lisboa, 
+      Lisbon, Portugal.
+FAU - Franco, Octavio L
+AU  - Franco OL
+AD  - Centro de Análises Proteômicas e Bioquímicas, Programa de Pós-Graduação em Ciências 
+      Genômicas e Biotecnologia, UCB, Brasília, DF, Brazil; S-inova Biotech, Programa de 
+      Pós-Graduação em Biotecnologia, Universidade Católica Dom Bosco, Campo Grande, MS, 
+      Brazil; Programa de Pós-Graduação em Patologia Molecular, Faculdade de Medicina, 
+      Universidade de Brasília, Brasília, DF, Brazil. Electronic address: 
+      ocfranco@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20160408
+PL  - Netherlands
+TA  - Biochim Biophys Acta
+JT  - Biochimica et biophysica acta
+JID - 0217513
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Lipopolysaccharides)
+RN  - 0 (Peptidomimetics)
+RN  - 0 (Phosphatidylcholines)
+RN  - 0 (Phosphatidylglycerols)
+RN  - 0 (Phosphatidylserines)
+RN  - 0 (Unilamellar Liposomes)
+RN  - 40290-44-6 (1-palmitoyl-2-oleoylglycero-3-phosphoserine)
+RN  - 81490-05-3 (1-palmitoyl-2-oleoylglycero-3-phosphoglycerol)
+RN  - 97C5T2UQ7J (Cholesterol)
+RN  - OF5P57N2ZX (Alanine)
+RN  - TE895536Y5 (1-palmitoyl-2-oleoylphosphatidylcholine)
+SB  - IM
+MH  - Alanine/chemistry
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Anti-Bacterial Agents/chemical synthesis/*chemistry/pharmacology
+MH  - Antimicrobial Cationic Peptides/*chemistry/isolation & purification
+MH  - Cell Survival/drug effects
+MH  - Chlorocebus aethiops
+MH  - Cholesterol/chemistry
+MH  - Erythrocytes/drug effects
+MH  - Escherichia coli/drug effects/growth & development
+MH  - Escherichia coli Infections/*drug therapy/microbiology/mortality
+MH  - Flounder/metabolism
+MH  - Humans
+MH  - Lipopolysaccharides/chemistry
+MH  - Mice
+MH  - Molecular Dynamics Simulation
+MH  - Molecular Sequence Data
+MH  - Peptidomimetics/chemical synthesis/*chemistry/pharmacology
+MH  - Phosphatidylcholines/chemistry
+MH  - Phosphatidylglycerols/chemistry
+MH  - Phosphatidylserines/chemistry
+MH  - Protein Structure, Secondary
+MH  - Protein Structure, Tertiary
+MH  - Survival Analysis
+MH  - Unilamellar Liposomes/chemistry
+MH  - Vero Cells
+OTO - NOTNLM
+OT  - Molecular dynamics
+OT  - Pa-MAP2
+OT  - Pleuronectes americanus
+OT  - Secondary structure
+OT  - Synthetic palindromic peptide
+EDAT- 2016/04/12 06:00
+MHDA- 2016/08/19 06:00
+CRDT- 2016/04/12 06:00
+PHST- 2015/12/07 00:00 [received]
+PHST- 2016/03/22 00:00 [revised]
+PHST- 2016/04/05 00:00 [accepted]
+PHST- 2016/04/12 06:00 [entrez]
+PHST- 2016/04/12 06:00 [pubmed]
+PHST- 2016/08/19 06:00 [medline]
+AID - S0005-2736(16)30129-8 [pii]
+AID - 10.1016/j.bbamem.2016.04.003 [doi]
+PST - ppublish
+SO  - Biochim Biophys Acta. 2016 Jul;1858(7 Pt A):1488-98. doi: 
+      10.1016/j.bbamem.2016.04.003. Epub 2016 Apr 8.
+
+PMID- 22367403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20120710
+LR  - 20211021
+IS  - 1432-0991 (Electronic)
+IS  - 0343-8651 (Linking)
+VI  - 64
+IP  - 5
+DP  - 2012 May
+TI  - Screening of antimicrobials from Caribbean sea animals and isolation of bactericidal 
+      proteins from the littoral mollusk Cenchritis muricatus.
+PG  - 501-5
+LID - 10.1007/s00284-012-0096-5 [doi]
+AB  - Marine organisms represent approximately half of the world's biodiversity by virtue 
+      of the sea being an immense reservoir of bioactive molecules. Here, antimicrobial 
+      crude extract activities of different marine invertebrates from the Caribbean Sea 
+      were evaluated. One of the most active, crude extracts was that marine snail 
+      Cenchritis muricatus, it was capable of totally inhibiting the development of 
+      Staphylococcus aureus and also showed a growth inhibition of 95.9% in Escherichia 
+      coli. Aiming to isolate molecules that confirm antimicrobial activity, the crude 
+      extract was purified by reversed-phase HPLC C-18 chromatography. Thereafter, one of 
+      the obtained fractions preserved this antibacterial activity. Furthermore, SDS-PAGE 
+      analysis (15%) showed the presence of two proteins of molecular masses with 
+      approximately 10 and 15 kDa, respectively. The first 19 amino acids of both proteins 
+      were sequenced by using Edman degradation, yielding unidentified primary structures 
+      compared against sequences deposited at NCBI databank. This is the first report of 
+      antibacterial proteins isolated from the mollusk Cenchritis muricatus and these 
+      proteins could be used as antibiotic alternatives in the aquacultural industry, as 
+      well as in agricultural or biomedical research.
+FAU - López-Abarrategui, Carlos
+AU  - López-Abarrategui C
+AD  - Laboratoriode Inmunoanalìtica y Péptidos Antimicrobianos, Centro de Estudios de 
+      Proteínas, Universidad de La Habana, La Habana, Cuba.
+FAU - Alba, Annia
+AU  - Alba A
+FAU - Lima, Loiane A
+AU  - Lima LA
+FAU - Maria-Neto, Simone
+AU  - Maria-Neto S
+FAU - Vasconcelos, Ilka M
+AU  - Vasconcelos IM
+FAU - Oliveira, Jose T A
+AU  - Oliveira JT
+FAU - Dias, Simoni C
+AU  - Dias SC
+FAU - Otero-Gonzalez, Anselmo J
+AU  - Otero-Gonzalez AJ
+FAU - Franco, Octavio L
+AU  - Franco OL
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120226
+PL  - United States
+TA  - Curr Microbiol
+JT  - Current microbiology
+JID - 7808448
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Proteins)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Anti-Bacterial Agents/chemistry/metabolism/*pharmacology
+MH  - Caribbean Region
+MH  - Drug Evaluation, Preclinical
+MH  - Escherichia coli/*drug effects/growth & development
+MH  - Microbial Sensitivity Tests
+MH  - Molecular Sequence Data
+MH  - Mollusca/*chemistry/classification/metabolism
+MH  - Proteins/chemistry/metabolism/*pharmacology
+MH  - Staphylococcus aureus/*drug effects/growth & development
+EDAT- 2012/03/01 06:00
+MHDA- 2012/07/11 06:00
+CRDT- 2012/02/28 06:00
+PHST- 2011/11/29 00:00 [received]
+PHST- 2012/02/03 00:00 [accepted]
+PHST- 2012/02/28 06:00 [entrez]
+PHST- 2012/03/01 06:00 [pubmed]
+PHST- 2012/07/11 06:00 [medline]
+AID - 10.1007/s00284-012-0096-5 [doi]
+PST - ppublish
+SO  - Curr Microbiol. 2012 May;64(5):501-5. doi: 10.1007/s00284-012-0096-5. Epub 2012 Feb 
+      26.
+
+PMID- 19685832
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090930
+LR  - 20091111
+IS  - 0016-3813 (Print)
+IS  - 0016-3813 (Linking)
+VI  - 145
+IP  - 3
+DP  - 2009 May-Jun
+TI  - [Antimicrobial peptide elicitors: a potential strategy against infections].
+PG  - 241-3
+AB  - The drawbacks associated with antibiotic-based treatment of infectious diseases 
+      including an increase in multidrug-resistant strains and adverse reactions have lead 
+      to the search of antimicrobial peptide elicitors (APE), harmless substances that 
+      boost an overexpression of innate immunity genes. Knowledge on innate immunity 
+      activation pathways and their interactions with adaptive immunity would lead to more 
+      effective, faster and safer APE-based treatments to battle infections which still 
+      are a common public health problem worldwide.
+FAU - Prado-Montes de Oca, Ernesto
+AU  - Prado-Montes de Oca E
+AD  - Laboratorio de Biología Molecular, Unidad Sureste de Servicios Tecnológicos, Centro 
+      de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C., 
+      CONACYT Mérida, Yucatán, México. eprado@ciatej.net.mx
+LA  - spa
+PT  - English Abstract
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+TT  - Elicitores de péptidos antimicrobianos: estrategia potencial contra infecciones.
+PL  - Mexico
+TA  - Gac Med Mex
+JT  - Gaceta medica de Mexico
+JID - 0010333
+RN  - 0 (Antimicrobial Cationic Peptides)
+SB  - IM
+MH  - Antimicrobial Cationic Peptides/*therapeutic use
+MH  - Bacterial Infections/*drug therapy/*immunology
+MH  - Humans
+EDAT- 2009/08/19 09:00
+MHDA- 2009/10/01 06:00
+CRDT- 2009/08/19 09:00
+PHST- 2009/08/19 09:00 [entrez]
+PHST- 2009/08/19 09:00 [pubmed]
+PHST- 2009/10/01 06:00 [medline]
+PST - ppublish
+SO  - Gac Med Mex. 2009 May-Jun;145(3):241-3.
